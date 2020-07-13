@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Jupyter notebook for Applied Data Science Capstone Project-Week 1
+Jupyter notebooks for Applied Data Science Capstone Project-Assignments
